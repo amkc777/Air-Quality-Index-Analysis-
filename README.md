@@ -36,3 +36,7 @@ Install the required Python libraries by running:
 
 ```bash
 pip install pandas numpy plotly matplotlib
+
+
+**Connect with the Author:**
+[LinkedIn](https://www.linkedin.com/in/amkc777/)
